@@ -1,0 +1,13 @@
+{
+  "name": "highrise-bot",
+  "version": "1.0.0",
+  "description": "Highrise Music Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
